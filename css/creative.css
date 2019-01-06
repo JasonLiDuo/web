@@ -170,7 +170,7 @@ header.masthead {
   padding-top: 30rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("../img/44422383_2146344155430626_8116902304361218048_n.jpg ");
-  background-position: center bottom;
+  background-position: 50% 30%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
